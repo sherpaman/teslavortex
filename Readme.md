@@ -1,6 +1,6 @@
 # Tesla Vortex
 This panel app is able to generate an images of a "Vortex" as described 
-in the "Mathologer" youtube [video](https://youtu.be/6ZrO90AI0c8)
+in the "Mathologer" YouTube [video](https://youtu.be/6ZrO90AI0c8)
 
 ## Installation
 
@@ -45,7 +45,7 @@ panel serve app.py --address 0.0.0.0  --allow-websocket-origin="*"
 ```
 
 ## How to get a vortex image
-Uncomment line 97 of the ```app.py``` file by changing:
+Uncomment line 98 of the ```app.py``` file by changing:
 ```python
         # dwg.save()
 ```

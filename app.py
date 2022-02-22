@@ -95,7 +95,7 @@ def create_svg(num_p: int,
             p1 = (p0 * mult) % num_p
         # print(f"CIRCLE CLOSED")
         # UNCOMMENT THE FOLLOWING LINE TO CREATE A "vortex.svg" FILE
-        #dwg.save()
+        # dwg.save()
     return dwg
 
 
